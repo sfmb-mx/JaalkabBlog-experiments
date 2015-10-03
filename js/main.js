@@ -1,4 +1,3 @@
-
 var s,
     app = {
 
@@ -103,4 +102,3 @@ var s,
 $(document).ready(function(){
     app.init();
 });
-
